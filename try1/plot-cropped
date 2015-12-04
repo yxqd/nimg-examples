@@ -1,0 +1,1 @@
+nimg-plot random 5 --imageseries=cropped.yml --colorlimits=0,3000

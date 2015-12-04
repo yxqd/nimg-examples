@@ -1,0 +1,5 @@
+filenamepattern: cropped/%s.npy
+angles:
+  min: 0
+  max: 183
+  step: .3
