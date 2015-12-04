@@ -1,0 +1,1 @@
+nimg-crop raw.yml cropped/%s.npy 50 1950 100 1500
